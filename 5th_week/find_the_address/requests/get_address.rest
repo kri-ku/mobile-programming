@@ -1,0 +1,1 @@
+GET http://www.mapquestapi.com/geocoding/v1/address?key=KnHd7lruMpGlhnJTiu1uV7la1W4Q5tAQ&location=kasoorinkatu+4+F+Finland
