@@ -9,5 +9,5 @@ spring 2021.
 [4th_week](https://github.com/kri-ku/mobile-programming/tree/master/4th_week): HTTP-requests, API calls<br>
 [5th_week](https://github.com/kri-ku/mobile-programming/tree/master/5th_week): Maps and location<br>
 [6th_week](https://github.com/kri-ku/mobile-programming/tree/master/6th_week/shopping_list_with_database): Databases<br>
-[7th_week](<https://github.com/kri-ku/mobile-programming/tree/master/7th_week): Using contacts and voice<br>
+[7th_week](https://github.com/kri-ku/mobile-programming/tree/master/7th_week): Using contacts and voice<br>
 [8th_week](https://github.com/kri-ku/mobile-programming/tree/master/8th_week): Component library<br>
